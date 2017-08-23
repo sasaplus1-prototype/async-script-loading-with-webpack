@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "devDependencies": {
+    "webpack": "^3.5.5"
+  },
+  "scripts": {
+    "webpack": "webpack --colors --display-error-details --progress"
+  }
+}
